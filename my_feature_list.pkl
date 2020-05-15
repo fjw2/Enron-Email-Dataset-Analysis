@@ -1,0 +1,16 @@
+(lp0
+S'poi'
+p1
+aS'loan_advances'
+p2
+aS'restricted_stock_deferred'
+p3
+aS'deferred_income'
+p4
+aS'expenses'
+p5
+aS'fraction_to_poi'
+p6
+aS'long_term_incentive'
+p7
+a.
